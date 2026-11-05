@@ -3,7 +3,7 @@
 StudioSpace is a full-stack platform designed for discovering and booking creative studios, photography spaces, film stages, and podcast suites.
 
 - **GitHub Repository**: [https://github.com/Ifaj-codes/studiospace](https://github.com/Ifaj-codes/studiospace)
-- **Live Vercel Client**: [Pending Vercel Deployment Link]
+- **Live Vercel Client**: [https://studiospace-client.vercel.app](https://studiospace-client.vercel.app)
 
 ---
 
